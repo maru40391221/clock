@@ -1,2 +1,2 @@
-# clock
-JS project #2
+# Clock
+ JS project #2
