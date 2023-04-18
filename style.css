@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+#yearMonthDate {
+    display:flex;
+    flex-flow: row wrap;
+    font-size: 100px;
+
+}
+
+#hourMinuteSecond {
+    display:flex;
+    flex-flow: row wrap;
+    font-size: 100px;
+}
